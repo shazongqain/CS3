@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AvailableLibraryUpdateStorage">
     <last-search-timestamp>1576203219667</last-search-timestamp>
   </component>
@@ -23,22 +24,61 @@
     <ignored path="$PROJECT_DIR$/app/build/tmp/" />
     <ignored path="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/" />
     <ignored path="$PROJECT_DIR$/app/build/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes/" />
+=======
+<<<<<<< HEAD
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af32fd3c-1608-42f7-a0e8-eddb20449b8f" name="Default Changelist" comment="" />
+>>>>>>> 0bc3c66b14fe2fd8b0ad40d2f4bf8595edb041a4
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
         <projects_view />
       </state>
     </system>
+=======
+  <component name="FUSProjectUsageTrigger">
+    <session id="-186832095">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="pro" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="ProGuard File" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+>>>>>>> 0bc3c66b14fe2fd8b0ad40d2f4bf8595edb041a4
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/git1/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -52,10 +92,20 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+=======
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/git1/MainActivity.java">
+>>>>>>> 0bc3c66b14fe2fd8b0ad40d2f4bf8595edb041a4
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
@@ -71,6 +121,10 @@
               <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
             </state>
           </provider>
+=======
+        <entry file="file://$PROJECT_DIR$/local.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> 0bc3c66b14fe2fd8b0ad40d2f4bf8595edb041a4
         </entry>
       </file>
     </leaf>
@@ -78,6 +132,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -93,17 +148,61 @@
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="303" />
+    <option name="y" value="635" />
+    <option name="width" value="1360" />
+    <option name="height" value="765" />
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="515" />
+    <option name="width" value="978" />
+    <option name="height" value="524" />
+>>>>>>> d3887b439cb8f3c820edb9a5b3b963b4e8135a00
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 0bc3c66b14fe2fd8b0ad40d2f4bf8595edb041a4
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+=======
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="git1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="git1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="git1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="git1" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+>>>>>>> 0bc3c66b14fe2fd8b0ad40d2f4bf8595edb041a4
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="kkk" type="b2602c69:ProjectViewProjectNode" />
               <item name="kkk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
@@ -111,11 +210,27 @@
               <item name="kkk" type="b2602c69:ProjectViewProjectNode" />
               <item name="kkk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+=======
+              <item name="git1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="git1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="git1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 0bc3c66b14fe2fd8b0ad40d2f4bf8595edb041a4
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
     </panes>
   </component>
@@ -125,6 +240,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
+=======
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 0bc3c66b14fe2fd8b0ad40d2f4bf8595edb041a4
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -185,16 +306,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="6ed481f8-d306-44dc-9c65-2295d9048c25" name="Default Changelist" comment="" />
       <created>1576202947953</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576202947953</updated>
+=======
+      <changelist id="af32fd3c-1608-42f7-a0e8-eddb20449b8f" name="Default Changelist" comment="" />
+      <created>1576202543862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576202543862</updated>
+>>>>>>> 0bc3c66b14fe2fd8b0ad40d2f4bf8595edb041a4
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+<<<<<<< HEAD
     <editor active="true" />
     <layout>
       <window_info id="Capture Tool" />
@@ -213,6 +343,24 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Build" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+=======
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3297587" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.3286119" />
+>>>>>>> 0bc3c66b14fe2fd8b0ad40d2f4bf8595edb041a4
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Gradle" />
@@ -220,6 +368,7 @@
       <window_info anchor="right" id="Palette&#9;" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/git1/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -230,10 +379,20 @@
           </folding>
         </state>
       </provider>
+=======
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+>>>>>>> 0bc3c66b14fe2fd8b0ad40d2f4bf8595edb041a4
     </entry>
     <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -247,6 +406,13 @@
           <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
         </state>
       </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/git1/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> 0bc3c66b14fe2fd8b0ad40d2f4bf8595edb041a4
     </entry>
   </component>
 </project>
