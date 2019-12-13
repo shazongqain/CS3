@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="303" />
-    <option name="y" value="635" />
-    <option name="width" value="1360" />
-    <option name="height" value="765" />
+    <option name="x" value="-9" />
+    <option name="y" value="515" />
+    <option name="width" value="978" />
+    <option name="height" value="524" />
   </component>
   <component name="PropertiesComponent">
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
